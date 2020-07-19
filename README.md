@@ -42,10 +42,10 @@ nc-xai
 
 ### Architecture
 **Cross-modal transformer**  
-<img src="./assets/cross_modal.png" width="60%">
+<img src="./assets/cross_modal.png" width="60%">  
 
 **model architecture**  
-<img src="./assets/model1.png" width="60%">
+<img src="./assets/model1.png" width="60%">  
 
 ### Usage
 Train  
