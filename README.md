@@ -1,4 +1,4 @@
-# Explainable baseball recommendation with NCSoft
+# Baseball_Recommendation
 
 ## Requirements
 - python 3.6.9    
